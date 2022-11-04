@@ -1,7 +1,7 @@
 # Project 1
 -----
 # Crypto_Dashboard
-##*Team Members*
+## *Team Members*
 
 Jodi Artman
 
@@ -12,31 +12,31 @@ Kausar Hina
 Edith Chou
 
 
-##*Project Description*
+## *Project Description*
 Crypto Currency Dashboard  
                    
-Main Page: Overview of current prices by market cap
+1. Main Page: Overview of current prices by market cap
 
-Tab 1: user choice of 10 coins to include for potential portfolio construction
+2. Tab 1: user choice of 10 coins to include for potential portfolio construction
     using monte carlo simulations for buy/sell recommendations
     
-Tab 2: Imputs information on current price for email notifications
+3. Tab 2: Imputs information on current price for email notifications
 
 
-##*Questions to Answer*
+## *Questions to Answer*
 
 This is the first step in crypto data collection and analysis for notifications on potential buy/sell.  Future ideas for development of full functionality of buy/sell execution.
 
-##*Research Resources/Datasets*
+## *Research Resources/Datasets*
 
 coingecko API - for coin data
 
 StreamIt/Panel - for Dashboard
 
 
-##*Project Tasks*
-Kausar - main dashboard page construction with graph of at least 10 coins
+## *Project Tasks*
+ - Kausar - main dashboard page construction with graph of at least 10 coins
 
-Melissa & Edith - development of the portfolio construction outline of functions
+ - Melissa & Edith - development of the portfolio construction outline of functions
 
-Jodi - Notification email alerts 
+ - Jodi - Notification email alerts 
